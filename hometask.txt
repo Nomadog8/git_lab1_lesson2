@@ -1,0 +1,4 @@
+ветка demo смёрджена с ветками boots и buttons, сама demo унаследована от ветки hat.
+ветка master смёрджена с ветками hat и boots_buttons, а сама boots_buttons смёрджена с ветками boots и buttons и унаследована от ветки master
+
+файл human.txt в обеих ветках ничем не отличается, файл README отличается первовй строчкой
